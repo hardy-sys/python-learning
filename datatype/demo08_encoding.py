@@ -1,4 +1,4 @@
-str1 = "中"
+str1 = "许"
 print(str1.encode("utf-8"))
 print(str1.encode("gbk"))
 print("==============================")
